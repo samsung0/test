@@ -1,0 +1,43 @@
+{
+    "room": "mmm",
+    "author": "mmm",
+    "icon": "http://i.imgur.com/5dPzAfr.png",
+    "css": "https://rawgit.com/MrAjdin/ProjectX/master/css/styling.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "http://i.imgur.com/a48ZVwW.png",
+        "playback": "http://i.imgur.com/AIQocw0.png",
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
