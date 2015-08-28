@@ -1,7 +1,7 @@
 {
     "room": "mmm",
-    "author": "Tessi Tess & Ajdin",
-    "icon": "mmm",
+    "author": "mmm",
+    "icon": "http://i.imgur.com/ye5cmjU.png",
     "css": "https://rawgit.com/MrAjdin/ProjectX/master/css/styling.css",
     "rules": {
         "allowAutorespond": true,
@@ -26,7 +26,7 @@
         "user": null
     },
     "images": {
-        "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/800px-Adams_The_Tetons_and_the_Snake_River.jpg",
+        "background": "http://i.imgur.com/mVjQ1XQ.png",
         "playback": "http://i.imgur.com/AIQocw0.png",
         "admin": null,
         "ambassador": null,
