@@ -1,0 +1,43 @@
+{
+    "room": "mmm",
+    "author": "Tessi Tess & Ajdin",
+    "icon": "mmm",
+    "css": "https://rawgit.com/MrAjdin/ProjectX/master/css/styling.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/800px-Adams_The_Tetons_and_the_Snake_River.jpg",
+        "playback": "http://i.imgur.com/AIQocw0.png",
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
