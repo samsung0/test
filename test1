@@ -2,7 +2,7 @@
     "room": "mmm",
     "author": "mmm",
     "icon": "http://i.imgur.com/ye5cmjU.png",
-    "css": "https://rawgit.com/samsung0/test/master/style.css",
+    "css": "https://rawgit.com/samsung0/test/master/mmm",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
