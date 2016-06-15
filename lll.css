@@ -1,0 +1,384 @@
+/*
+  =====================================================
+  Created by: Origin (https://plug.dj/@/origin)
+  Modified by: PICKORITA (https://plug.dj/@/pickorita)
+  CSS for: ST ARMY (https://plug.dj/st-army-elite)
+  Copyright © 2015/16!
+  =====================================================
+}*/
+#user-lists .list.staff .group {
+    background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
+}
+#footer {
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
+}
+#playlist-button {
+    background: linear-gradient(to bottom,#FF5CDE 0,#5700FF 100%);
+}
+#app-header {
+    background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
+}
+#store-button {
+    background: linear-gradient(to bottom,#FF0000 0,#A00000 100%);
+}
+#plug-dj {
+    background: linear-gradient(to bottom,#0268AC 0,#02225C 100%);
+}
+.header-panel-button.selected {
+    background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(255, 255, 255, 0.06) 100%);
+}
+#plug-menu {
+    background: rgba(40, 44, 53, 0.94) !important;
+}
+#plug-menu .legal {
+    background: rgba(68, 74, 89, 0.46) !important;
+}
+#settings {
+    background: rgba(10, 10, 10, 0.89) !important;
+}
+#user-lists .list .user:hover {
+    background: linear-gradient(to right,rgba(255, 118, 118, 0) 0,rgba(255, 0, 194, 0.27) 100%) !important;
+}
+#waitlist .list .user {
+    background: linear-gradient(to right,rgba(255, 118, 118, 0) 0,rgba(255, 0, 194, 0.13) 100%) !important;
+}
+.app-right .friends {
+    background: none !important;
+}
+#settings .header {
+    background: rgba(28, 31, 37, 0.78) !important;
+}
+@media (max-width: 1600px) {
+    #room .app-right {
+        background: linear-gradient(to right,rgba(0, 0, 0, 0.70) 0,rgba(0, 0, 0, 1) 100%);
+    }
+}
+#chat .message:nth-child(2n+1),#chat .mention:nth-child(2n+1),#chat .skip:nth-child(2n+1),#chat .moderation:nth-child(2n+1),#chat .emote:nth-child(2n+1),#chat .update:nth-child(2n+1),#chat .welcome:nth-child(2n+1) {
+    background-color: rgba(17, 19, 23, 0.32);
+    -webkit-animation:fadein 0.25s;
+    -moz-animation:fadein 0.25s;
+    -ms-animation:fadein 0.25s;
+    -o-animation:fadein 0.25s;
+    animation:fadein 0.25s;
+}
+#chat .emote #chat .mention #chat .message #chat .moderation #chat .skip #chat .system #chat .update #chat .welcome {
+    -webkit-animation: fadein 0.25s;
+    -moz-animation: fadein 0.25s;
+    -ms-animation: fadein 0.25s;
+    -o-animation: fadein 0.25s;
+    animation: fadein 0.25s;
+}
+#chat .moderation, #chat .moderation .from .un{
+    color: #F46B40;
+}
+#chat .mention {
+    font-weight: 700;
+    /*padding-left: 25px;*/
+    border-left: #7681FF 3px solid;
+}
+#chat .emote .from {
+     color: #ac76ff !important;
+}
+#chat .emote {
+    border-left: rgba(174, 69, 189, 1) 3px solid !important;
+    background-color: rgba(76, 93, 119, 0.22) !important;
+}
+#chat-messages .emote .icon {
+    /*left: 4px;*/
+}
+/*.icon-chat-host + span {
+    color: #FF9B00 !important;
+}
+.icon-chat-host {
+    background: url("https://i.imgur.com/yvATGIE.png") !important;
+}
+.icon-chat-cohost + span {
+    color: #F3508F !important;
+}
+.icon-chat-cohost {
+    background: url("https://i.imgur.com/o8j7w88.png") !important;
+}*/
+.icon-chat-manager + span {
+    color: #FE2E64 !important;
+}
+.icon-chat-manager {
+    background: url("https://i.imgur.com/lhb8iJH.png") !important;
+}
+.icon-chat-bouncer + span {
+    color: #5DB4FF !important;
+}
+.icon-chat-bouncer {
+    background: url("https://i.imgur.com/Vm7GRSj.png") !important;
+}
+.icon-chat-dj + span {
+    color: #17DDB0 !important;
+}
+.icon-chat-dj {
+    background: url("https://i.imgur.com/8pj5QrZ.png") !important;
+}
+#chat .emote .text {
+    font-style: normal;
+    font-weight: bold;
+    color: #ac76ff;
+}
+#footer {
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
+}
+#playlist-button {
+    background: linear-gradient(to bottom,#FF5CDE 0,#5700FF 100%);
+}
+.social-menu .icon-twitter,.social-menu .icon-facebook {
+    opacity: 1;
+}
+#playlist-panel {
+    background: rgba(17, 19, 23, 0.9);
+}
+#playlist-menu {
+    background: rgba(28, 31, 37, 0.67);
+}
+#search {
+    background: rgba(50, 55, 66, 0.58);
+}
+#search-bar {
+    background: rgba(17, 19, 23, 0.77);
+}
+#filter-bar {
+    background: rgba(17, 19, 23, 0.77);
+}
+#playlist-edit-button {
+    background: rgba(85, 93, 112, 0.75);
+}
+#playlist-shuffle-button {
+    background: rgba(68, 74, 89, 0.75);
+}
+#playlist-delete-button {
+    background: rgba(50, 55, 66, 0.75);
+}
+#user-panel .score {
+    background: rgba(28, 31, 37, 0.59);
+}
+#dj-button.is-locked .left,#dj-button.is-full .left,#vote .crowd-response.disabled .bottom {
+    background: #222224;
+}
+#dj-button.is-quit .left, #dj-button.is-leave .left, #dj-button.is-wait .left, #dj-button.is-locked .left, #dj-button.is-full .left {
+background: #121214;
+border-radius: 8px;
+/*border-left-width: 4px;*/
+}
+/*#dj-button.is-quit .left {
+border-left: 3px solid #f46b40;
+}
+#dj-button.is-leave .left {
+border-left: 3px solid #f46b40;
+}
+#dj-button.is-wait .left {
+border-left: 3px solid #00b5e6;
+}
+#dj-button.is-locked .left {
+border-left: 3px solid #734ba9;
+}
+#dj-button.is-full .left {
+border-left: 3px solid #CCCCCC;
+}*/
+#dj-button {
+background: #222224;
+border-radius: 8px;
+}
+#vote .crowd-response {
+background: #222224;
+}
+#woot .bottom, #woot.selected {
+background: #90ad2f;
+}
+#grab .bottom, #grab.selected {
+background: #aa74ff;
+}
+#meh .bottom, #meh.selected {
+background: #c42e3b;
+}
+.row:hover {
+    background: linear-gradient(to right,rgba(255, 118, 118, 0) 0,rgba(41, 48, 124, 0.27) 100%) !important;
+}
+#chat .mention .msg {
+    background: linear-gradient(to right,rgba(255, 118, 118, 0) 0,rgba(41, 48, 124, 0.27) 100%);
+}
+#user-lists .list.room .user .icon-meh {
+    top: -1px !important;
+    right: 8px !important;
+    left: auto !important;
+}
+/*CIKI (icon-chat-host)*/
+[data-cid^="3856605-"] .msg .from .icon-chat-host {
+  background: url("http://i.imgur.com/6nUGHCS.png")center no-repeat !important;
+}
+/*CIKI (userlist-icon-host)*/
+.id-3856605 .msg .from .icon-chat-host, #user-lists .list.room .user.id-3856605 .icon-chat-host
+{
+    background: url("http://i.imgur.com/6nUGHCS.png") !important;
+    background-repeat: no-repeat !important;
+}
+/*KovalskA (icon-chat-cohost)*/
+[data-cid^="3613086-"] .msg .from .icon-chat-host {
+  background: url("http://i.imgur.com/9D3nnHA.png")center no-repeat !important;
+}
+/*KovalskA (userlist-icon-cohost)*/
+.id-613086 .msg .from .icon-chat-host, #user-lists .list.room .user.id-613086 .icon-chat-host
+{
+    background: url("http://i.imgur.com/9D3nnHA.png") !important;
+    background-repeat: no-repeat !important;
+}
+/*KovalskA (chat-badge)*/
+[data-cid^="3613086-"] .badge-box .bdg {
+  background: url("http://i.imgur.com/Jg5Hvuo.png")center no-repeat !important;
+}
+/*KovalskA (rollover-badge)*/
+#user-rollover.id-3613086 .info .badge-box .bdg {
+  background: url("http://i.imgur.com/Jg5Hvuo.png")center no-repeat !important;
+}
+/*PICKORITA (icon-chat-silver-sub)*/
+[data-cid^="4559972-"] .msg .from .icon-chat-silver-subscriber {
+  background: url("http://i.imgur.com/am5yimH.png")center no-repeat !important;
+}
+/*PICKORITA (icon-chat-gold-sub)*/
+[data-cid^="4559972-"] .msg .from .icon-chat-subscriber {
+  background: url("http://i.imgur.com/am5yimH.png")center no-repeat !important;
+}
+/*PICKORITA (icon-chat-manager)*/
+[data-cid^="4559972-"] .msg .from .icon-chat-manager {
+  background: url("http://i.imgur.com/2uwGWEt.png")center no-repeat !important;
+}
+/*PICKORITA (chat-color)*/
+[data-cid^="4559972-"].cm .msg .from .un {
+  color: #FFFFFF !important;
+}
+/*PICKORITA (userlist-icon-gold-sub)*/
+.id-4559972 .msg .from .icon-chat-subscriber, #user-lists .list.room .user.id-4559972 .icon-chat-subscriber
+{
+    background: url("http://i.imgur.com/am5yimH.png") !important;
+    background-repeat: no-repeat !important;
+}
+/*PICKORITA (userlist-icon-gold-silver-sub)*/
+.id-4559972 .msg .from .icon-chat-silver-subscriber, #user-lists .list.room .user.id-4559972 .icon-chat-silver-subscriber
+{
+    background: url("http://i.imgur.com/am5yimH.png") !important;
+    background-repeat: no-repeat !important;
+}
+/*PICKORITA (userlist-username-color)*/
+#user-lists .list.room [class*="role"].id-4559972 .name {
+    color: #FFFFFF!important;
+}
+/*PICKORITA (userlist-icon-manager)*/
+#user-lists .list.room .id-4559972 .icon-chat-manager {
+    background: url("http://i.imgur.com/2uwGWEt.png")!important;
+}
+/*PICKORITA (chat-badge)
+[data-cid^="4559972-"] .badge-box .bdg {
+  background: url("http://i.imgur.com/mLr7sJj.png")center no-repeat !important;
+}*/
+/*PICKORITA (rollover-badge)
+#user-rollover.id-4559972 .info .badge-box .bdg {
+  background: url("http://i.imgur.com/mLr7sJj.png")center no-repeat !important;
+}*/
+/*PICKORITA (chat-color)*/
+[data-cid^="4559972-"].cm .msg .from .un {
+  color: #FFFFFF !important;
+}
+/*BOT (icon-chat-manager)*/
+[data-cid^="4567866-"] .msg .from .icon-chat-manager {
+  background: url("http://i.imgur.com/uFcNqSx.png")center no-repeat !important;
+}
+/*BOT (icon-chat-silver-sub)*/
+[data-cid^="4567866-"] .msg .from .icon-chat-silver-subscriber {
+  background: url("http://i.imgur.com/3GJPvjm.png")center no-repeat !important;
+}
+/*BOT (icon-chat-gold-sub)*/
+[data-cid^="4567866-"] .msg .from .icon-chat-subscriber {
+  background: url("http://i.imgur.com/3GJPvjm.png")center no-repeat !important;
+}
+/*BOT (chat-badge)*/
+[data-cid^="4567866-"] .badge-box .bdg {
+  background: url("http://i.imgur.com/FqcXNry.png")center no-repeat !important;
+}
+/*BOT (rollover-badge)*/
+#user-rollover.id-4567866 .info .badge-box .bdg {
+  background: url("http://i.imgur.com/FqcXNry.png")center no-repeat !important;
+}
+/*BOT (hide-chat-icons)
+#chat-messages .id-4567866 .icon {
+    display: none;
+}*/
+/*BOT (userlist-icon-gold-sub)*/
+.id-4567866 .msg .from .icon-chat-subscriber, #user-lists .list.room .user.id-4567866 .icon-chat-subscriber
+{
+    background: url("http://i.imgur.com/3GJPvjm.png") !important;
+    background-repeat: no-repeat !important;
+}
+/*BOT (userlist-icon-silver-sub)*/
+.id-4567866 .msg .from .icon-chat-silver-subscriber, #user-lists .list.room .user.id-4567866 .icon-chat-silver-subscriber
+{
+    background: url("http://i.imgur.com/3GJPvjm.png") !important;
+    background-repeat: no-repeat !important;
+}
+/*BOT (userlist-username-color)*/
+#user-lists .list.room [class*="role"].id-4567866 .name {
+    color: #AC76FF!important;
+}
+/*BOT (userlist-icon-manager)*/
+#user-lists .list.room .id-4567866 .icon-chat-manager {
+    background: url("http://i.imgur.com/uFcNqSx.png")!important;
+}
+/*BOT (chat-color)*/
+[data-cid^="4567866-"].cm .msg .from .un {
+  color: #AC76FF !important;
+}
+/*-RELAX- (chat-icon-silver-sub)*/
+[data-cid^="3856653-"] .msg .from .icon-chat-silver-subscriber {
+  background: url("http://i.imgur.com/b8C9ys1.png")center no-repeat !important;
+}
+/*-RELAX- (chat-icon-gold-sub)*/
+[data-cid^="3856653-"] .msg .from .icon-chat-subscriber {
+  background: url("http://i.imgur.com/b8C9ys1.png")center no-repeat !important;
+}
+/*-RELAX- (userlist-icon-gold-sub)*/
+.id-3856653 .msg .from .icon-chat-subscriber, #user-lists .list.room .user.id-3856653 .icon-chat-subscriber
+{
+    background: url("http://i.imgur.com/b8C9ys1.png") !important;
+    background-repeat: no-repeat !important;
+}
+/*-RELAX- (userlist-icon-silver-sub)*/
+.id-3856653 .msg .from .icon-chat-silver-subscriber, #user-lists .list.room .user.id-3856653 .icon-chat-silver-subscriber
+{
+    background: url("http://i.imgur.com/b8C9ys1.png") !important;
+    background-repeat: no-repeat !important;
+}
+/*-RELAX- (chat-badge)*/
+[data-cid^="3856653-"] .badge-box .bdg {
+  background: url("http://i.imgur.com/2gklfPV.png")center no-repeat !important;
+}
+/*-RELAX- (rollover-badge)*/
+#user-rollover.id-3856653 .info .badge-box .bdg {
+  background: url("http://i.imgur.com/2gklfPV.png")center no-repeat !important;
+}
+/*FoXiić (chat-icon-silver-sub)*/
+[data-cid^="5031007-"] .msg .from .icon-chat-silver-subscriber {
+  background: url("http://i.imgur.com/jSsyeoE.png")center no-repeat !important;
+}
+/*FoXiić (chat-icon-gold-sub)*/
+[data-cid^="5031007-"] .msg .from .icon-chat-subscriber {
+  background: url("http://i.imgur.com/jSsyeoE.png")center no-repeat !important;
+}
+/*FoXiić- (userlist-icon-gold-sub)*/
+.id-5031007 .msg .from .icon-chat-subscriber, #user-lists .list.room .user.id-5031007 .icon-chat-subscriber
+{
+    background: url("http://i.imgur.com/jSsyeoE.png") !important;
+    background-repeat: no-repeat !important;
+}
+/*FoXiić (userlist-icon-silver-sub)*/
+.id-5031007 .msg .from .icon-chat-silver-subscriber, #user-lists .list.room .user.id-5031007 .icon-chat-silver-subscriber
+{
+    background: url("http://i.imgur.com/jSsyeoE.png") !important;
+    background-repeat: no-repeat !important;
+}
+#user-lists .list.room .user .icon-grab {
+    right: 35px;
+}
