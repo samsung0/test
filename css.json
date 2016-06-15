@@ -1,0 +1,43 @@
+{
+    "room": "mmm",
+    "author": "mmm",
+    "icon": "http://i.imgur.com/ye5cmjU.png",
+    "css": "https://rawgit.com/samsung0/test/master/mmm",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "http://i.imgur.com/mVjQ1XQ.png",
+        "playback": "http://i.imgur.com/ye5cmjU.png",
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
