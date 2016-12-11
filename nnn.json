@@ -1,7 +1,7 @@
 {
     "room": "mmm",
     "author": "mmm",
-    "icon": "http://i.imgur.com/U9hF85c.png",
+    "icon": "http://i.imgur.com/aPf4hun.png",
     "css": "https://rawgit.com/samsung0/test/master/lll.css",
     "rules": {
         "allowAutorespond": true,
@@ -27,7 +27,7 @@
     },
     "images": {
         "background": "https://cdn.radiant.dj/rcs/bg/2k14tc.jpg",
-        "playback": "http://i.imgur.com/U9hF85c.png",
+        "playback": "http://i.imgur.com/aPf4hun.png",
         "admin": null,
         "ambassador": null,
         "host": null,
