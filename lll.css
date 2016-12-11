@@ -19,10 +19,10 @@
     background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
 }
 #store-button {
-    background: linear-gradient(to bottom,#1c1f25 0,#1c1f25 100%);
+    background: linear-gradient(to bottom,#FFF 0,#FFF 100%);
 }
 #plug-dj {
-    background: linear-gradient(to bottom,#1c1f25 0,#1c1f25 100%);
+    background: linear-gradient(to bottom,#FFF 0,#FFF 100%);
 }
 .header-panel-button.selected {
     background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(255, 255, 255, 0.06) 100%);
